@@ -17,6 +17,8 @@ python main.py
 
 press `r` to restart game, `q` to quit game.
 
+![game screenshot](screenshot.png)
+
 # Training
 
 Training process can be find on below kaggle notebook, training output is `model.pth`.
